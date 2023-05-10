@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\admin\OneDrive\Рабочий стол\ConsoleApplication1\ConsoleApplication1.cpp(52,13): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\admin\OneDrive\Рабочий стол\ConsoleApplication1\ConsoleApplication1.cpp(56,13): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\admin\OneDrive\Рабочий стол\ConsoleApplication1\ConsoleApplication1.cpp(62,13): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+  ConsoleApplication1.vcxproj -> C:\Users\admin\OneDrive\Рабочий стол\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
